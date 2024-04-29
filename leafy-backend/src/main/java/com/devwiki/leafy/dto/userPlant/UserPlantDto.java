@@ -17,4 +17,5 @@ public class UserPlantDto {
     private String plantNickname;
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
+
 }
