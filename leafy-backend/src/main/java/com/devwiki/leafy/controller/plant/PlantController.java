@@ -76,4 +76,6 @@ public class PlantController {
         plantService.deletePlant(plantId);
         return new ResponseEntity<>(HttpStatus.NO_CONTENT);
     }
+
+
 }
